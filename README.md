@@ -1,6 +1,8 @@
 # Key Bindings
 leader = space
+
 #Harpoon
+
 ```<C-e>``` - Toggle harpoon 
 
 ```<leader>a ```- add file to harpoon
