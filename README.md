@@ -15,3 +15,4 @@ leader = space
 
 ```<leader>gs``` - fugitive
 
+```<leader>u``` - undotree
