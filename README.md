@@ -1,7 +1,6 @@
 # Key Bindings
 leader = space
 
-#Harpoon
 
 ```<C-e>``` - Toggle harpoon 
 
